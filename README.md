@@ -12,7 +12,7 @@ GET STARTED ON WINDOWS
 3. The station opens at http://localhost:8765/station on the radio computer.
    Use this served page instead of double-clicking the HTML file. Localhost
    lets the browser request microphone access.
-4. Set Station callsign (for example AA1O-1), modem tones/baud, and the RF TX
+4. Set Station callsign (for example N0CALL-1), modem tones/baud, and the RF TX
    composer's Path. Start microphone RX, select the radio audio output in
    Windows, and configure your radio's VOX/audio interface as usual.
 5. Check "Allow paired LAN devices to send radio messages". Audio is unlocked
@@ -20,7 +20,7 @@ GET STARTED ON WINDOWS
 6. Put the iPhone/tablet/computer on the same LAN or Wi-Fi. Open the displayed
    http://192.168.x.x:8765/messenger address in Safari or another browser.
    Enter the pairing code, then a destination callsign-SSID and a message.
-7. The other radio station replies to YOUR Station callsign-SSID, e.g. AA1O-1.
+7. The other radio station replies to YOUR Station callsign-SSID, e.g. N0CALL-1.
    Decoded, CRC-valid RF messages addressed there appear in the conversation.
 
 You can make a shortcut to the phone URL on its Home Screen. Internet access
